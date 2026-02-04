@@ -1,0 +1,543 @@
+{
+  "strategy": "BullPS-TW-V6-Profit-Chaser",
+  "final_equity": 1231620.89,
+  "total_return": "23.16%",
+  "win_rate": "41.57%",
+  "total_trades": 89,
+  "trades": [
+    {
+      "symbol": "3443",
+      "pnl": -9.62,
+      "reason": "SAR反轉",
+      "exit_date": "2024-03-12"
+    },
+    {
+      "symbol": "2454",
+      "pnl": -6.83,
+      "reason": "SAR反轉",
+      "exit_date": "2024-04-15"
+    },
+    {
+      "symbol": "3443",
+      "pnl": -10.92,
+      "reason": "SAR反轉",
+      "exit_date": "2024-04-15"
+    },
+    {
+      "symbol": "2330",
+      "pnl": 0.53,
+      "reason": "SAR反轉",
+      "exit_date": "2024-04-16"
+    },
+    {
+      "symbol": "2408",
+      "pnl": -0.19,
+      "reason": "SAR反轉",
+      "exit_date": "2024-04-26"
+    },
+    {
+      "symbol": "2408",
+      "pnl": -4.83,
+      "reason": "SAR反轉",
+      "exit_date": "2024-05-16"
+    },
+    {
+      "symbol": "2330",
+      "pnl": 3.42,
+      "reason": "SAR反轉",
+      "exit_date": "2024-05-31"
+    },
+    {
+      "symbol": "3443",
+      "pnl": 0.15,
+      "reason": "獲利回吐保本",
+      "exit_date": "2024-06-24"
+    },
+    {
+      "symbol": "3443",
+      "pnl": -2.06,
+      "reason": "SAR反轉",
+      "exit_date": "2024-07-01"
+    },
+    {
+      "symbol": "3443",
+      "pnl": -3.03,
+      "reason": "SAR反轉",
+      "exit_date": "2024-07-02"
+    },
+    {
+      "symbol": "3443",
+      "pnl": -0.5,
+      "reason": "SAR反轉",
+      "exit_date": "2024-07-05"
+    },
+    {
+      "symbol": "3443",
+      "pnl": -3.63,
+      "reason": "SAR反轉",
+      "exit_date": "2024-07-08"
+    },
+    {
+      "symbol": "3443",
+      "pnl": 3.05,
+      "reason": "SAR反轉",
+      "exit_date": "2024-07-10"
+    },
+    {
+      "symbol": "3443",
+      "pnl": -2.37,
+      "reason": "SAR反轉",
+      "exit_date": "2024-07-12"
+    },
+    {
+      "symbol": "2408",
+      "pnl": -6.86,
+      "reason": "SAR反轉",
+      "exit_date": "2024-07-15"
+    },
+    {
+      "symbol": "2454",
+      "pnl": -5.78,
+      "reason": "SAR反轉",
+      "exit_date": "2024-07-16"
+    },
+    {
+      "symbol": "3443",
+      "pnl": 1.47,
+      "reason": "SAR反轉",
+      "exit_date": "2024-08-09"
+    },
+    {
+      "symbol": "3443",
+      "pnl": 0.44,
+      "reason": "獲利回吐保本",
+      "exit_date": "2024-09-03"
+    },
+    {
+      "symbol": "2330",
+      "pnl": -1.34,
+      "reason": "SAR反轉",
+      "exit_date": "2024-09-03"
+    },
+    {
+      "symbol": "2449",
+      "pnl": -3.88,
+      "reason": "SAR反轉",
+      "exit_date": "2024-09-04"
+    },
+    {
+      "symbol": "3443",
+      "pnl": -1.92,
+      "reason": "SAR反轉",
+      "exit_date": "2024-09-16"
+    },
+    {
+      "symbol": "3443",
+      "pnl": -5.0,
+      "reason": "SAR反轉",
+      "exit_date": "2024-09-18"
+    },
+    {
+      "symbol": "3443",
+      "pnl": 1.95,
+      "reason": "SAR反轉",
+      "exit_date": "2024-09-23"
+    },
+    {
+      "symbol": "3443",
+      "pnl": -0.98,
+      "reason": "獲利回吐保本",
+      "exit_date": "2024-10-04"
+    },
+    {
+      "symbol": "3443",
+      "pnl": -2.17,
+      "reason": "獲利回吐保本",
+      "exit_date": "2024-11-01"
+    },
+    {
+      "symbol": "3443",
+      "pnl": 1.12,
+      "reason": "SAR反轉",
+      "exit_date": "2024-11-06"
+    },
+    {
+      "symbol": "3443",
+      "pnl": 1.49,
+      "reason": "SAR反轉",
+      "exit_date": "2024-11-08"
+    },
+    {
+      "symbol": "3443",
+      "pnl": -1.67,
+      "reason": "SAR反轉",
+      "exit_date": "2024-11-11"
+    },
+    {
+      "symbol": "3443",
+      "pnl": -6.03,
+      "reason": "SAR反轉",
+      "exit_date": "2024-11-13"
+    },
+    {
+      "symbol": "3443",
+      "pnl": -2.91,
+      "reason": "SAR反轉",
+      "exit_date": "2024-11-20"
+    },
+    {
+      "symbol": "2330",
+      "pnl": -5.22,
+      "reason": "SAR反轉",
+      "exit_date": "2024-11-21"
+    },
+    {
+      "symbol": "2330",
+      "pnl": -1.46,
+      "reason": "SAR反轉",
+      "exit_date": "2024-11-25"
+    },
+    {
+      "symbol": "3443",
+      "pnl": -9.59,
+      "reason": "SAR反轉",
+      "exit_date": "2024-11-28"
+    },
+    {
+      "symbol": "2454",
+      "pnl": -2.45,
+      "reason": "SAR反轉",
+      "exit_date": "2024-11-29"
+    },
+    {
+      "symbol": "3443",
+      "pnl": 2.9,
+      "reason": "SAR反轉",
+      "exit_date": "2024-12-04"
+    },
+    {
+      "symbol": "3443",
+      "pnl": 13.9,
+      "reason": "V6移動止盈 (落後ATR)",
+      "exit_date": "2024-12-19"
+    },
+    {
+      "symbol": "2330",
+      "pnl": -2.02,
+      "reason": "SAR反轉",
+      "exit_date": "2024-12-20"
+    },
+    {
+      "symbol": "3443",
+      "pnl": 2.53,
+      "reason": "SAR反轉",
+      "exit_date": "2024-12-31"
+    },
+    {
+      "symbol": "3443",
+      "pnl": -4.23,
+      "reason": "SAR反轉",
+      "exit_date": "2025-01-08"
+    },
+    {
+      "symbol": "3443",
+      "pnl": -2.05,
+      "reason": "SAR反轉",
+      "exit_date": "2025-01-10"
+    },
+    {
+      "symbol": "3443",
+      "pnl": -2.89,
+      "reason": "SAR反轉",
+      "exit_date": "2025-01-17"
+    },
+    {
+      "symbol": "3443",
+      "pnl": 7.66,
+      "reason": "SAR反轉",
+      "exit_date": "2025-01-20"
+    },
+    {
+      "symbol": "2330",
+      "pnl": 0.85,
+      "reason": "SAR反轉",
+      "exit_date": "2025-02-07"
+    },
+    {
+      "symbol": "2408",
+      "pnl": 33.47,
+      "reason": "V6移動止盈 (落後ATR)",
+      "exit_date": "2025-02-27"
+    },
+    {
+      "symbol": "3443",
+      "pnl": 0.63,
+      "reason": "SAR反轉",
+      "exit_date": "2025-02-27"
+    },
+    {
+      "symbol": "3443",
+      "pnl": -3.42,
+      "reason": "SAR反轉",
+      "exit_date": "2025-03-19"
+    },
+    {
+      "symbol": "2408",
+      "pnl": -2.19,
+      "reason": "獲利回吐保本",
+      "exit_date": "2025-03-25"
+    },
+    {
+      "symbol": "3443",
+      "pnl": -1.74,
+      "reason": "SAR反轉",
+      "exit_date": "2025-03-27"
+    },
+    {
+      "symbol": "2454",
+      "pnl": -6.26,
+      "reason": "SAR反轉",
+      "exit_date": "2025-03-31"
+    },
+    {
+      "symbol": "2408",
+      "pnl": -11.77,
+      "reason": "SAR反轉",
+      "exit_date": "2025-05-05"
+    },
+    {
+      "symbol": "3443",
+      "pnl": 15.88,
+      "reason": "V6移動止盈 (落後ATR)",
+      "exit_date": "2025-06-09"
+    },
+    {
+      "symbol": "3443",
+      "pnl": -3.17,
+      "reason": "SAR反轉",
+      "exit_date": "2025-06-13"
+    },
+    {
+      "symbol": "3443",
+      "pnl": -0.5,
+      "reason": "SAR反轉",
+      "exit_date": "2025-06-20"
+    },
+    {
+      "symbol": "2330",
+      "pnl": 2.45,
+      "reason": "SAR反轉",
+      "exit_date": "2025-06-23"
+    },
+    {
+      "symbol": "3711",
+      "pnl": 0.42,
+      "reason": "SAR反轉",
+      "exit_date": "2025-07-02"
+    },
+    {
+      "symbol": "2449",
+      "pnl": 4.02,
+      "reason": "SAR反轉",
+      "exit_date": "2025-07-08"
+    },
+    {
+      "symbol": "2408",
+      "pnl": -3.17,
+      "reason": "SAR反轉",
+      "exit_date": "2025-07-21"
+    },
+    {
+      "symbol": "3443",
+      "pnl": 4.43,
+      "reason": "SAR反轉",
+      "exit_date": "2025-07-22"
+    },
+    {
+      "symbol": "3443",
+      "pnl": 2.01,
+      "reason": "SAR反轉",
+      "exit_date": "2025-07-25"
+    },
+    {
+      "symbol": "3443",
+      "pnl": 0.32,
+      "reason": "SAR反轉",
+      "exit_date": "2025-07-28"
+    },
+    {
+      "symbol": "3443",
+      "pnl": -2.52,
+      "reason": "SAR反轉",
+      "exit_date": "2025-07-29"
+    },
+    {
+      "symbol": "3443",
+      "pnl": -0.09,
+      "reason": "SAR反轉",
+      "exit_date": "2025-07-31"
+    },
+    {
+      "symbol": "3443",
+      "pnl": 2.38,
+      "reason": "SAR反轉",
+      "exit_date": "2025-08-04"
+    },
+    {
+      "symbol": "3443",
+      "pnl": -5.78,
+      "reason": "SAR反轉",
+      "exit_date": "2025-08-13"
+    },
+    {
+      "symbol": "3443",
+      "pnl": 2.93,
+      "reason": "SAR反轉",
+      "exit_date": "2025-08-15"
+    },
+    {
+      "symbol": "3443",
+      "pnl": -0.91,
+      "reason": "SAR反轉",
+      "exit_date": "2025-08-18"
+    },
+    {
+      "symbol": "2408",
+      "pnl": 2.98,
+      "reason": "SAR反轉",
+      "exit_date": "2025-08-20"
+    },
+    {
+      "symbol": "3443",
+      "pnl": -3.83,
+      "reason": "SAR反轉",
+      "exit_date": "2025-08-20"
+    },
+    {
+      "symbol": "3711",
+      "pnl": -4.15,
+      "reason": "SAR反轉",
+      "exit_date": "2025-08-20"
+    },
+    {
+      "symbol": "2454",
+      "pnl": -0.86,
+      "reason": "SAR反轉",
+      "exit_date": "2025-08-21"
+    },
+    {
+      "symbol": "3443",
+      "pnl": -2.76,
+      "reason": "SAR反轉",
+      "exit_date": "2025-09-22"
+    },
+    {
+      "symbol": "3443",
+      "pnl": -0.5,
+      "reason": "SAR反轉",
+      "exit_date": "2025-09-24"
+    },
+    {
+      "symbol": "3443",
+      "pnl": -3.96,
+      "reason": "SAR反轉",
+      "exit_date": "2025-09-26"
+    },
+    {
+      "symbol": "2454",
+      "pnl": -2.76,
+      "reason": "SAR反轉",
+      "exit_date": "2025-10-23"
+    },
+    {
+      "symbol": "3443",
+      "pnl": 9.95,
+      "reason": "V6移動止盈 (落後ATR)",
+      "exit_date": "2025-10-28"
+    },
+    {
+      "symbol": "3443",
+      "pnl": -3.2,
+      "reason": "SAR反轉",
+      "exit_date": "2025-10-30"
+    },
+    {
+      "symbol": "2330",
+      "pnl": 23.72,
+      "reason": "V6移動止盈 (落後ATR)",
+      "exit_date": "2025-11-05"
+    },
+    {
+      "symbol": "2408",
+      "pnl": 0.82,
+      "reason": "SAR反轉",
+      "exit_date": "2025-12-05"
+    },
+    {
+      "symbol": "3443",
+      "pnl": 46.38,
+      "reason": "V6移動止盈 (落後ATR)",
+      "exit_date": "2025-12-09"
+    },
+    {
+      "symbol": "2330",
+      "pnl": 1.25,
+      "reason": "SAR反轉",
+      "exit_date": "2025-12-16"
+    },
+    {
+      "symbol": "3443",
+      "pnl": -6.98,
+      "reason": "SAR反轉",
+      "exit_date": "2025-12-16"
+    },
+    {
+      "symbol": "3443",
+      "pnl": -2.21,
+      "reason": "SAR反轉",
+      "exit_date": "2025-12-22"
+    },
+    {
+      "symbol": "3443",
+      "pnl": 0.25,
+      "reason": "SAR反轉",
+      "exit_date": "2025-12-24"
+    },
+    {
+      "symbol": "3443",
+      "pnl": 3.94,
+      "reason": "SAR反轉",
+      "exit_date": "2025-12-26"
+    },
+    {
+      "symbol": "3443",
+      "pnl": -3.34,
+      "reason": "SAR反轉",
+      "exit_date": "2025-12-29"
+    },
+    {
+      "symbol": "3443",
+      "pnl": 2.91,
+      "reason": "SAR反轉",
+      "exit_date": "2025-12-31"
+    },
+    {
+      "symbol": "2344",
+      "pnl": 57.75,
+      "reason": "V6移動止盈 (落後ATR)",
+      "exit_date": "2026-01-09"
+    },
+    {
+      "symbol": "2408",
+      "pnl": 38.92,
+      "reason": "V6移動止盈 (落後ATR)",
+      "exit_date": "2026-01-09"
+    },
+    {
+      "symbol": "2454",
+      "pnl": 21.9,
+      "reason": "V6移動止盈 (落後ATR)",
+      "exit_date": "2026-02-02"
+    }
+  ]
+}

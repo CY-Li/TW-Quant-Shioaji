@@ -1,0 +1,35 @@
+# GitHub Gitignore for TW-Quant-Shioaji
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Sensitive files (Certificates and credentials)
+TW-Quant-Shioaji/cert/
+*.pfx
+*.zip
+*.log
+.env
+auth.json
+
+# Large data files
+TW-Quant-Shioaji/data/
+*.csv
+*.json.bak
+*.json.old
+
+# Reports and temporary files
+TW-Quant-Shioaji/sector_reports/
+TW-Quant-Shioaji/sector_reports_v8/
+portfolio_report_*.json
+analysis_result.json
+
+# System specific files
+venv/
+.openclaw/
+node_modules/
